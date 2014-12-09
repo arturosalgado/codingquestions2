@@ -1,0 +1,4 @@
+C:\Users\papa\AppData\Local\Temporary Projects\Hanoi_\bin\Release\Hanoi_.exe
+C:\Users\papa\AppData\Local\Temporary Projects\Hanoi_\bin\Release\Hanoi_.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\Hanoi_\obj\x86\Release\Hanoi_.exe
+C:\Users\papa\AppData\Local\Temporary Projects\Hanoi_\obj\x86\Release\Hanoi_.pdb
