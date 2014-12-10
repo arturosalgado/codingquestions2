@@ -1,0 +1,4 @@
+C:\Users\papa\documents\visual studio 2010\Projects\StringsK\StringsK\bin\Release\StringsK.exe
+C:\Users\papa\documents\visual studio 2010\Projects\StringsK\StringsK\bin\Release\StringsK.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\StringsK\StringsK\obj\x86\Release\StringsK.exe
+C:\Users\papa\documents\visual studio 2010\Projects\StringsK\StringsK\obj\x86\Release\StringsK.pdb
