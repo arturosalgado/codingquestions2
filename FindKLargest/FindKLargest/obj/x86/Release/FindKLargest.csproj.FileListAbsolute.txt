@@ -1,0 +1,4 @@
+C:\Users\papa\AppData\Local\Temporary Projects\FindKLargest\bin\Release\FindKLargest.exe
+C:\Users\papa\AppData\Local\Temporary Projects\FindKLargest\bin\Release\FindKLargest.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\FindKLargest\obj\x86\Release\FindKLargest.exe
+C:\Users\papa\AppData\Local\Temporary Projects\FindKLargest\obj\x86\Release\FindKLargest.pdb
