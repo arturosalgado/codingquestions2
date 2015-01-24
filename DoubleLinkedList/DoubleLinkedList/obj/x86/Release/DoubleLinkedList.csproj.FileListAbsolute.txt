@@ -1,0 +1,6 @@
+C:\Users\papa\AppData\Local\Temporary Projects\DoubleLinkedList\bin\Release\DoubleLinkedList.exe
+C:\Users\papa\AppData\Local\Temporary Projects\DoubleLinkedList\bin\Release\DoubleLinkedList.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\DoubleLinkedList\obj\x86\Release\DoubleLinkedList.exe
+C:\Users\papa\AppData\Local\Temporary Projects\DoubleLinkedList\obj\x86\Release\DoubleLinkedList.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\DoubleLinkedList\DoubleLinkedList\obj\x86\Release\DoubleLinkedList.exe
+C:\Users\papa\documents\visual studio 2010\Projects\DoubleLinkedList\DoubleLinkedList\obj\x86\Release\DoubleLinkedList.pdb
