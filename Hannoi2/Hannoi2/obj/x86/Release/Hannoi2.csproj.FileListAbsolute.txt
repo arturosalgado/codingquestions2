@@ -1,0 +1,4 @@
+C:\Users\papa\AppData\Local\Temporary Projects\Hannoi2\bin\Release\Hannoi2.exe
+C:\Users\papa\AppData\Local\Temporary Projects\Hannoi2\bin\Release\Hannoi2.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\Hannoi2\obj\x86\Release\Hannoi2.exe
+C:\Users\papa\AppData\Local\Temporary Projects\Hannoi2\obj\x86\Release\Hannoi2.pdb

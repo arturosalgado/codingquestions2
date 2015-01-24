@@ -1,0 +1,6 @@
+C:\Users\papa\AppData\Local\Temporary Projects\ShiftArray\bin\Debug\ShiftArray.exe
+C:\Users\papa\AppData\Local\Temporary Projects\ShiftArray\bin\Debug\ShiftArray.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\ShiftArray\obj\x86\Debug\ShiftArray.exe
+C:\Users\papa\AppData\Local\Temporary Projects\ShiftArray\obj\x86\Debug\ShiftArray.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\ShiftArray\ShiftArray\obj\x86\Debug\ShiftArray.exe
+C:\Users\papa\documents\visual studio 2010\Projects\ShiftArray\ShiftArray\obj\x86\Debug\ShiftArray.pdb

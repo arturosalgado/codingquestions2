@@ -1,0 +1,4 @@
+C:\Users\papa\AppData\Local\Temporary Projects\LinkedList\bin\Release\LinkedList.exe
+C:\Users\papa\AppData\Local\Temporary Projects\LinkedList\bin\Release\LinkedList.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\LinkedList\obj\x86\Release\LinkedList.exe
+C:\Users\papa\AppData\Local\Temporary Projects\LinkedList\obj\x86\Release\LinkedList.pdb

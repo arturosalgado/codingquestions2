@@ -1,0 +1,4 @@
+C:\Users\papa\AppData\Local\Temporary Projects\NBitString\bin\Debug\NBitString.exe
+C:\Users\papa\AppData\Local\Temporary Projects\NBitString\bin\Debug\NBitString.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\NBitString\obj\x86\Debug\NBitString.exe
+C:\Users\papa\AppData\Local\Temporary Projects\NBitString\obj\x86\Debug\NBitString.pdb

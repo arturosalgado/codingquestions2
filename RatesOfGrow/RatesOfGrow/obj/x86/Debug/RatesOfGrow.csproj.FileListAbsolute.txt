@@ -1,0 +1,4 @@
+C:\Users\papa\AppData\Local\Temporary Projects\RatesOfGrow\bin\Debug\RatesOfGrow.exe
+C:\Users\papa\AppData\Local\Temporary Projects\RatesOfGrow\bin\Debug\RatesOfGrow.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\RatesOfGrow\obj\x86\Debug\RatesOfGrow.exe
+C:\Users\papa\AppData\Local\Temporary Projects\RatesOfGrow\obj\x86\Debug\RatesOfGrow.pdb
