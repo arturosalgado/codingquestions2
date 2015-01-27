@@ -1,0 +1,4 @@
+C:\Users\papa\AppData\Local\Temporary Projects\Lists\bin\Release\Lists.exe
+C:\Users\papa\AppData\Local\Temporary Projects\Lists\bin\Release\Lists.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\Lists\obj\x86\Release\Lists.exe
+C:\Users\papa\AppData\Local\Temporary Projects\Lists\obj\x86\Release\Lists.pdb
