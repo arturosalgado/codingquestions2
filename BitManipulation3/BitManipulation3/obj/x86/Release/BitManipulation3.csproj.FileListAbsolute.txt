@@ -1,0 +1,4 @@
+C:\Users\papa\AppData\Local\Temporary Projects\BitManipulation3\bin\Release\BitManipulation3.exe
+C:\Users\papa\AppData\Local\Temporary Projects\BitManipulation3\bin\Release\BitManipulation3.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\BitManipulation3\obj\x86\Release\BitManipulation3.exe
+C:\Users\papa\AppData\Local\Temporary Projects\BitManipulation3\obj\x86\Release\BitManipulation3.pdb

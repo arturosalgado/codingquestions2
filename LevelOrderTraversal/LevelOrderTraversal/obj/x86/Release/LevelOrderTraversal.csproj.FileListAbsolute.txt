@@ -1,0 +1,4 @@
+C:\Users\papa\AppData\Local\Temporary Projects\LevelOrderTraversal\bin\Release\LevelOrderTraversal.exe
+C:\Users\papa\AppData\Local\Temporary Projects\LevelOrderTraversal\bin\Release\LevelOrderTraversal.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\LevelOrderTraversal\obj\x86\Release\LevelOrderTraversal.exe
+C:\Users\papa\AppData\Local\Temporary Projects\LevelOrderTraversal\obj\x86\Release\LevelOrderTraversal.pdb

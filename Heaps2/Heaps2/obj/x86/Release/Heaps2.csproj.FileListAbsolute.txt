@@ -1,0 +1,4 @@
+C:\Users\papa\Documents\Visual Studio 2010\Projects\Heaps2\Heaps2\bin\Release\Heaps2.exe
+C:\Users\papa\Documents\Visual Studio 2010\Projects\Heaps2\Heaps2\bin\Release\Heaps2.pdb
+C:\Users\papa\Documents\Visual Studio 2010\Projects\Heaps2\Heaps2\obj\x86\Release\Heaps2.exe
+C:\Users\papa\Documents\Visual Studio 2010\Projects\Heaps2\Heaps2\obj\x86\Release\Heaps2.pdb

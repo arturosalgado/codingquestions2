@@ -1,0 +1,8 @@
+C:\Users\papa\AppData\Local\Temporary Projects\RemoveLinks\bin\Debug\RemoveLinks.exe
+C:\Users\papa\AppData\Local\Temporary Projects\RemoveLinks\bin\Debug\RemoveLinks.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\RemoveLinks\obj\x86\Debug\RemoveLinks.exe
+C:\Users\papa\AppData\Local\Temporary Projects\RemoveLinks\obj\x86\Debug\RemoveLinks.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\RemoveLinks\RemoveLinks\obj\x86\Debug\RemoveLinks.exe
+C:\Users\papa\documents\visual studio 2010\Projects\RemoveLinks\RemoveLinks\obj\x86\Debug\RemoveLinks.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\RemoveLinks\RemoveLinks\bin\Debug\RemoveLinks.exe
+C:\Users\papa\documents\visual studio 2010\Projects\RemoveLinks\RemoveLinks\bin\Debug\RemoveLinks.pdb

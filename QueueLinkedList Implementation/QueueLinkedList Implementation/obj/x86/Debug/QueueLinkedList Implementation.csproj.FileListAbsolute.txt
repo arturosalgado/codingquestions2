@@ -1,0 +1,4 @@
+C:\Users\papa\AppData\Local\Temporary Projects\QueueLinkedList Implementation\bin\Debug\QueueLinkedList Implementation.exe
+C:\Users\papa\AppData\Local\Temporary Projects\QueueLinkedList Implementation\bin\Debug\QueueLinkedList Implementation.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\QueueLinkedList Implementation\obj\x86\Debug\QueueLinkedList Implementation.exe
+C:\Users\papa\AppData\Local\Temporary Projects\QueueLinkedList Implementation\obj\x86\Debug\QueueLinkedList Implementation.pdb
