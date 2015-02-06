@@ -1,0 +1,6 @@
+C:\Users\papa\AppData\Local\Temporary Projects\FindKLargest\bin\Debug\FindKLargest.exe
+C:\Users\papa\AppData\Local\Temporary Projects\FindKLargest\bin\Debug\FindKLargest.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\FindKLargest\obj\x86\Debug\FindKLargest.exe
+C:\Users\papa\AppData\Local\Temporary Projects\FindKLargest\obj\x86\Debug\FindKLargest.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\FindKLargest\FindKLargest\obj\x86\Debug\FindKLargest.exe
+C:\Users\papa\documents\visual studio 2010\Projects\FindKLargest\FindKLargest\obj\x86\Debug\FindKLargest.pdb

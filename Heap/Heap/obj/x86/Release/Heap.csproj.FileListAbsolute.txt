@@ -1,0 +1,5 @@
+C:\Users\papa\documents\visual studio 2010\Projects\Heap\Heap\bin\Release\Heap.exe
+C:\Users\papa\documents\visual studio 2010\Projects\Heap\Heap\bin\Release\Heap.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\Heap\Heap\obj\x86\Release\Heap.exe
+C:\Users\papa\documents\visual studio 2010\Projects\Heap\Heap\obj\x86\Release\Heap.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\Heap\Heap\obj\x86\Release\Heap.csprojResolveAssemblyReference.cache

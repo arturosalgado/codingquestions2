@@ -1,0 +1,4 @@
+C:\Users\papa\AppData\Local\Temporary Projects\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe
+C:\Users\papa\AppData\Local\Temporary Projects\DoubleLinkedList\bin\Debug\DoubleLinkedList.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\DoubleLinkedList\obj\x86\Debug\DoubleLinkedList.exe
+C:\Users\papa\AppData\Local\Temporary Projects\DoubleLinkedList\obj\x86\Debug\DoubleLinkedList.pdb

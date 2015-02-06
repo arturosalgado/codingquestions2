@@ -1,0 +1,4 @@
+C:\Users\papa\AppData\Local\Temporary Projects\NonRecursiveTreeTraversal\bin\Debug\NonRecursiveTreeTraversal.exe
+C:\Users\papa\AppData\Local\Temporary Projects\NonRecursiveTreeTraversal\bin\Debug\NonRecursiveTreeTraversal.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\NonRecursiveTreeTraversal\obj\x86\Debug\NonRecursiveTreeTraversal.exe
+C:\Users\papa\AppData\Local\Temporary Projects\NonRecursiveTreeTraversal\obj\x86\Debug\NonRecursiveTreeTraversal.pdb

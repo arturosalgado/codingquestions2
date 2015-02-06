@@ -1,0 +1,4 @@
+C:\Users\papa\AppData\Local\Temporary Projects\Hannoi\bin\Debug\Hannoi.exe
+C:\Users\papa\AppData\Local\Temporary Projects\Hannoi\bin\Debug\Hannoi.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\Hannoi\obj\x86\Debug\Hannoi.exe
+C:\Users\papa\AppData\Local\Temporary Projects\Hannoi\obj\x86\Debug\Hannoi.pdb

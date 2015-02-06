@@ -1,0 +1,9 @@
+C:\Users\papa\AppData\Local\Temporary Projects\ListInterweave\bin\Debug\ListInterweave.exe
+C:\Users\papa\AppData\Local\Temporary Projects\ListInterweave\bin\Debug\ListInterweave.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\ListInterweave\obj\x86\Debug\ListInterweave.exe
+C:\Users\papa\AppData\Local\Temporary Projects\ListInterweave\obj\x86\Debug\ListInterweave.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\ListInterweave\ListInterweave\obj\x86\Debug\ListInterweave.exe
+C:\Users\papa\documents\visual studio 2010\Projects\ListInterweave\ListInterweave\obj\x86\Debug\ListInterweave.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\ListInterweave\ListInterweave\bin\Debug\ListInterweave.exe
+C:\Users\papa\documents\visual studio 2010\Projects\ListInterweave\ListInterweave\bin\Debug\ListInterweave.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\ListInterweave\ListInterweave\obj\x86\Debug\ListInterweave.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\papa\documents\visual studio 2010\Projects\BinaryString\BinaryString\bin\Debug\BinaryString.exe
+C:\Users\papa\documents\visual studio 2010\Projects\BinaryString\BinaryString\bin\Debug\BinaryString.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\BinaryString\BinaryString\obj\x86\Debug\BinaryString.exe
+C:\Users\papa\documents\visual studio 2010\Projects\BinaryString\BinaryString\obj\x86\Debug\BinaryString.pdb

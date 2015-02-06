@@ -1,0 +1,6 @@
+C:\Users\papa\AppData\Local\Temporary Projects\Fibo2\bin\Release\Fibo2.exe
+C:\Users\papa\AppData\Local\Temporary Projects\Fibo2\bin\Release\Fibo2.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\Fibo2\obj\x86\Release\Fibo2.exe
+C:\Users\papa\AppData\Local\Temporary Projects\Fibo2\obj\x86\Release\Fibo2.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\Fibo2\Fibo2\obj\x86\Release\Fibo2.exe
+C:\Users\papa\documents\visual studio 2010\Projects\Fibo2\Fibo2\obj\x86\Release\Fibo2.pdb

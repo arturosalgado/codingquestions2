@@ -1,0 +1,6 @@
+C:\Users\papa\AppData\Local\Temporary Projects\BitManipulation\bin\Release\BitManipulation.exe
+C:\Users\papa\AppData\Local\Temporary Projects\BitManipulation\bin\Release\BitManipulation.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\BitManipulation\obj\x86\Release\BitManipulation.exe
+C:\Users\papa\AppData\Local\Temporary Projects\BitManipulation\obj\x86\Release\BitManipulation.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\BitManipulation\BitManipulation\obj\x86\Release\BitManipulation.exe
+C:\Users\papa\documents\visual studio 2010\Projects\BitManipulation\BitManipulation\obj\x86\Release\BitManipulation.pdb

@@ -1,0 +1,4 @@
+C:\Users\papa\AppData\Local\Temporary Projects\ShiftArray\bin\Release\ShiftArray.exe
+C:\Users\papa\AppData\Local\Temporary Projects\ShiftArray\bin\Release\ShiftArray.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\ShiftArray\obj\x86\Release\ShiftArray.exe
+C:\Users\papa\AppData\Local\Temporary Projects\ShiftArray\obj\x86\Release\ShiftArray.pdb

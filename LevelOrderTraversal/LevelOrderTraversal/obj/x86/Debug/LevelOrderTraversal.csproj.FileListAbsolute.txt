@@ -1,0 +1,6 @@
+C:\Users\papa\AppData\Local\Temporary Projects\LevelOrderTraversal\bin\Debug\LevelOrderTraversal.exe
+C:\Users\papa\AppData\Local\Temporary Projects\LevelOrderTraversal\bin\Debug\LevelOrderTraversal.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\LevelOrderTraversal\obj\x86\Debug\LevelOrderTraversal.exe
+C:\Users\papa\AppData\Local\Temporary Projects\LevelOrderTraversal\obj\x86\Debug\LevelOrderTraversal.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\LevelOrderTraversal\LevelOrderTraversal\obj\x86\Debug\LevelOrderTraversal.exe
+C:\Users\papa\documents\visual studio 2010\Projects\LevelOrderTraversal\LevelOrderTraversal\obj\x86\Debug\LevelOrderTraversal.pdb

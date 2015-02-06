@@ -1,0 +1,4 @@
+C:\Users\papa\AppData\Local\Temporary Projects\SegregateNumbersInArray\bin\Release\SegregateNumbersInArray.exe
+C:\Users\papa\AppData\Local\Temporary Projects\SegregateNumbersInArray\bin\Release\SegregateNumbersInArray.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\SegregateNumbersInArray\obj\x86\Release\SegregateNumbersInArray.exe
+C:\Users\papa\AppData\Local\Temporary Projects\SegregateNumbersInArray\obj\x86\Release\SegregateNumbersInArray.pdb

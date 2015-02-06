@@ -1,0 +1,6 @@
+C:\Users\papa\AppData\Local\Temporary Projects\NonRecursiveTreeTraversal\bin\Release\NonRecursiveTreeTraversal.exe
+C:\Users\papa\AppData\Local\Temporary Projects\NonRecursiveTreeTraversal\bin\Release\NonRecursiveTreeTraversal.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\NonRecursiveTreeTraversal\obj\x86\Release\NonRecursiveTreeTraversal.exe
+C:\Users\papa\AppData\Local\Temporary Projects\NonRecursiveTreeTraversal\obj\x86\Release\NonRecursiveTreeTraversal.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\NonRecursiveTreeTraversal\NonRecursiveTreeTraversal\obj\x86\Release\NonRecursiveTreeTraversal.exe
+C:\Users\papa\documents\visual studio 2010\Projects\NonRecursiveTreeTraversal\NonRecursiveTreeTraversal\obj\x86\Release\NonRecursiveTreeTraversal.pdb

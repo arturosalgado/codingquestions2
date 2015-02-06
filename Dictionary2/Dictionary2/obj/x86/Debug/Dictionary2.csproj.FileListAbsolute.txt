@@ -1,0 +1,5 @@
+C:\Users\papa\documents\visual studio 2010\Projects\Dictionary2\Dictionary2\bin\Debug\Dictionary2.exe
+C:\Users\papa\documents\visual studio 2010\Projects\Dictionary2\Dictionary2\bin\Debug\Dictionary2.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\Dictionary2\Dictionary2\obj\x86\Debug\Dictionary2.csprojResolveAssemblyReference.cache
+C:\Users\papa\documents\visual studio 2010\Projects\Dictionary2\Dictionary2\obj\x86\Debug\Dictionary2.exe
+C:\Users\papa\documents\visual studio 2010\Projects\Dictionary2\Dictionary2\obj\x86\Debug\Dictionary2.pdb

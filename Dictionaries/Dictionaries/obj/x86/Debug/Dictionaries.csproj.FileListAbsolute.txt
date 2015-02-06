@@ -1,0 +1,4 @@
+C:\Users\papa\AppData\Local\Temporary Projects\Dictionaries\bin\Debug\Dictionaries.exe
+C:\Users\papa\AppData\Local\Temporary Projects\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\Dictionaries\obj\x86\Debug\Dictionaries.exe
+C:\Users\papa\AppData\Local\Temporary Projects\Dictionaries\obj\x86\Debug\Dictionaries.pdb

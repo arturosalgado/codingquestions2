@@ -1,0 +1,5 @@
+C:\Users\papa\documents\visual studio 2010\Projects\LinkedList1\LinkedList1\bin\Release\LinkedList1.exe
+C:\Users\papa\documents\visual studio 2010\Projects\LinkedList1\LinkedList1\bin\Release\LinkedList1.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\LinkedList1\LinkedList1\obj\x86\Release\LinkedList1.exe
+C:\Users\papa\documents\visual studio 2010\Projects\LinkedList1\LinkedList1\obj\x86\Release\LinkedList1.pdb
+C:\Users\papa\documents\visual studio 2010\Projects\LinkedList1\LinkedList1\obj\x86\Release\LinkedList1.csprojResolveAssemblyReference.cache

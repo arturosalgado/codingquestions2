@@ -1,0 +1,4 @@
+C:\Users\papa\AppData\Local\Temporary Projects\IsArraySortedRecursive\bin\Debug\IsArraySortedRecursive.exe
+C:\Users\papa\AppData\Local\Temporary Projects\IsArraySortedRecursive\bin\Debug\IsArraySortedRecursive.pdb
+C:\Users\papa\AppData\Local\Temporary Projects\IsArraySortedRecursive\obj\x86\Debug\IsArraySortedRecursive.exe
+C:\Users\papa\AppData\Local\Temporary Projects\IsArraySortedRecursive\obj\x86\Debug\IsArraySortedRecursive.pdb
