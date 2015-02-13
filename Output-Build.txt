@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: SortingAlgorithms, Configuration: Debug Any CPU ------
+1>  SortingAlgorithms -> c:\users\pepe\documents\visual studio 2012\Projects\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

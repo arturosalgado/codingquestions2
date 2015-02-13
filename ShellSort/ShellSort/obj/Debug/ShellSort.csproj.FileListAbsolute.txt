@@ -1,0 +1,6 @@
+c:\users\pepe\documents\visual studio 2012\Projects\ShellSort\ShellSort\bin\Debug\ShellSort.exe.config
+C:\Users\Pepe\Documents\Visual Studio 2012\Projects\ShellSort\ShellSort\bin\Debug\ShellSort.exe
+C:\Users\Pepe\Documents\Visual Studio 2012\Projects\ShellSort\ShellSort\bin\Debug\ShellSort.pdb
+C:\Users\Pepe\Documents\Visual Studio 2012\Projects\ShellSort\ShellSort\obj\Debug\ShellSort.csprojResolveAssemblyReference.cache
+C:\Users\Pepe\Documents\Visual Studio 2012\Projects\ShellSort\ShellSort\obj\Debug\ShellSort.exe
+C:\Users\Pepe\Documents\Visual Studio 2012\Projects\ShellSort\ShellSort\obj\Debug\ShellSort.pdb

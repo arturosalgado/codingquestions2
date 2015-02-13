@@ -1,0 +1,6 @@
+c:\users\pepe\documents\visual studio 2012\Projects\ListExamples\ListExamples\bin\Debug\ListExamples.exe.config
+c:\users\pepe\documents\visual studio 2012\Projects\ListExamples\ListExamples\bin\Debug\ListExamples.exe
+c:\users\pepe\documents\visual studio 2012\Projects\ListExamples\ListExamples\bin\Debug\ListExamples.pdb
+c:\users\pepe\documents\visual studio 2012\Projects\ListExamples\ListExamples\obj\Debug\ListExamples.csprojResolveAssemblyReference.cache
+c:\users\pepe\documents\visual studio 2012\Projects\ListExamples\ListExamples\obj\Debug\ListExamples.exe
+c:\users\pepe\documents\visual studio 2012\Projects\ListExamples\ListExamples\obj\Debug\ListExamples.pdb

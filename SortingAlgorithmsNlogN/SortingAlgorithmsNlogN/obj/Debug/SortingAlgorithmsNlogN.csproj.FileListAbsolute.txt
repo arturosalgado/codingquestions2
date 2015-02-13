@@ -1,0 +1,6 @@
+c:\users\pepe\documents\visual studio 2012\Projects\SortingAlgorithmsNlogN\SortingAlgorithmsNlogN\bin\Debug\SortingAlgorithmsNlogN.exe.config
+c:\users\pepe\documents\visual studio 2012\Projects\SortingAlgorithmsNlogN\SortingAlgorithmsNlogN\bin\Debug\SortingAlgorithmsNlogN.exe
+c:\users\pepe\documents\visual studio 2012\Projects\SortingAlgorithmsNlogN\SortingAlgorithmsNlogN\bin\Debug\SortingAlgorithmsNlogN.pdb
+c:\users\pepe\documents\visual studio 2012\Projects\SortingAlgorithmsNlogN\SortingAlgorithmsNlogN\obj\Debug\SortingAlgorithmsNlogN.csprojResolveAssemblyReference.cache
+c:\users\pepe\documents\visual studio 2012\Projects\SortingAlgorithmsNlogN\SortingAlgorithmsNlogN\obj\Debug\SortingAlgorithmsNlogN.exe
+c:\users\pepe\documents\visual studio 2012\Projects\SortingAlgorithmsNlogN\SortingAlgorithmsNlogN\obj\Debug\SortingAlgorithmsNlogN.pdb

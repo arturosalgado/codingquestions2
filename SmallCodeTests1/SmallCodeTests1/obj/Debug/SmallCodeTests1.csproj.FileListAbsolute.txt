@@ -1,0 +1,6 @@
+c:\users\pepe\documents\visual studio 2012\Projects\SmallCodeTests1\SmallCodeTests1\bin\Debug\SmallCodeTests1.exe.config
+c:\users\pepe\documents\visual studio 2012\Projects\SmallCodeTests1\SmallCodeTests1\bin\Debug\SmallCodeTests1.exe
+c:\users\pepe\documents\visual studio 2012\Projects\SmallCodeTests1\SmallCodeTests1\bin\Debug\SmallCodeTests1.pdb
+c:\users\pepe\documents\visual studio 2012\Projects\SmallCodeTests1\SmallCodeTests1\obj\Debug\SmallCodeTests1.csprojResolveAssemblyReference.cache
+c:\users\pepe\documents\visual studio 2012\Projects\SmallCodeTests1\SmallCodeTests1\obj\Debug\SmallCodeTests1.exe
+c:\users\pepe\documents\visual studio 2012\Projects\SmallCodeTests1\SmallCodeTests1\obj\Debug\SmallCodeTests1.pdb
