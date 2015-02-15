@@ -1,0 +1,6 @@
+c:\users\pepe\documents\visual studio 2012\Projects\WhoWinsTheElection2\WhoWinsTheElection2\bin\Debug\WhoWinsTheElection2.exe.config
+c:\users\pepe\documents\visual studio 2012\Projects\WhoWinsTheElection2\WhoWinsTheElection2\bin\Debug\WhoWinsTheElection2.exe
+c:\users\pepe\documents\visual studio 2012\Projects\WhoWinsTheElection2\WhoWinsTheElection2\bin\Debug\WhoWinsTheElection2.pdb
+c:\users\pepe\documents\visual studio 2012\Projects\WhoWinsTheElection2\WhoWinsTheElection2\obj\Debug\WhoWinsTheElection2.csprojResolveAssemblyReference.cache
+c:\users\pepe\documents\visual studio 2012\Projects\WhoWinsTheElection2\WhoWinsTheElection2\obj\Debug\WhoWinsTheElection2.exe
+c:\users\pepe\documents\visual studio 2012\Projects\WhoWinsTheElection2\WhoWinsTheElection2\obj\Debug\WhoWinsTheElection2.pdb
